@@ -11,19 +11,19 @@
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
 :root {
-  --background-image: url('https://i.imgur.com/6G3SKuA.png');
+  --background-image: url('put your url here');
   --background-image-blur: 0px;
   --background-image-size: cover;
   --background-image-position: center;
-  --popout-image: url('https://i.imgur.com/6G3SKuA.png');
+  --popout-image: url('put your url here');
   --popout-image-blur: 0px;
   --popout-image-size: cover;
   --popout-image-position: center;
-  --overlay-image: url('https://i.imgur.com/6G3SKuA.png');
+  --overlay-image: url('put your url here');
   --overlay-image-blur: 0px;
   --overlay-image-size: cover;
   --overlay-image-position: center;
-  --home-button-image: url('https://i.imgur.com/6G3SKuA.png');
+  --home-button-image: url('put your url here');
   --home-button-size: cover;
   --home-button-position: center;
   --serverlist-brightness: 0.3;
